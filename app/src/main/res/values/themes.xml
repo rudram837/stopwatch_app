@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StopWatch" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/purple_700</item>
+        <!-- <item name="colorPrimaryVariant">@color/navyBlue</item>
+        <item name="android:statusBarColor">@color/navyBlue</item> -->
+    </style>
+
+    <style name="Theme.StopWatch" parent="Base.Theme.StopWatch" />
+</resources>
